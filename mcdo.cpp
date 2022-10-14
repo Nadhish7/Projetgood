@@ -77,7 +77,7 @@ void client::saisie()
 
         
 }
-/*
+
 void Menu::MenuLundi()
 
 {
@@ -98,11 +98,6 @@ void Menu::MenuLundi()
   char* dt =ctime(&now);
   cout << "La date et l'heure locales sont: " << dt << endl;
   
-
-
-
-
-
 
 
 }

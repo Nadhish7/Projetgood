@@ -16,7 +16,7 @@ int aff;
 int mdp;
 
 // Client
-
+char n;
 char prenom[20]; // Pour ecrire le prénom
 char nom[20];   // Pour ercire le nom
 int paie; //pour choisir son mode de paiement 
